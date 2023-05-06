@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullah-Al-Ikram
 - 👀 I’m interested in Web Design and Web Development.
-- 🌱 I’m currently learning Web FrontEnd
+- 🌱 I’m currently learning Web BackEnd Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: abdullahikram600@gmail.com
 
